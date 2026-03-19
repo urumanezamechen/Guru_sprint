@@ -3,6 +3,6 @@ fun main() {
     println("ffff")
     println("ffff")
     println("ffff")
-
+    println("Здравствуйте Нургали Асланович")
 
 }
