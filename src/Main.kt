@@ -8,6 +8,5 @@ fun main() {
 
     totalPrice += totalPrice * 0.05
 
-
     println("налог: $totalPrice")
 }
